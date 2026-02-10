@@ -6,7 +6,7 @@ Data Analyst
 
 I have been working in Finance for many years. Whilst there were many duties I performed as part of the finance team, the part I always enjoyed the most was data analysis.
 
-This was downloading raw data, cleaning the data, then analysing the data (almost always in Excel), then summarising the results of the data so Management could make financial decisions based on this analysis.
+This was downloading raw financial data, cleaning the data, then analysing the data (almost always in Excel), then summarising the results of the data so Management could make financial decisions based on this analysis.
 
 I am now on a data analysis bootcamp, where I am learning extremely useful additional skills such as using data analysis programs such as Tableau and Power BI to create more powerful and visual data reports, as well as other programs such as Python to automate the collection and analysis of data. I have also been exposed to the use of SQL and Azure in data analysis.
 
